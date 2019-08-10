@@ -5,7 +5,7 @@ Daniel Loscos Barroso
 
 
 
-The project consist of three variations of the connect 4 game and one implementation of Otello.
+The project consists of three variations of the connect 4 game and one implementation of Otello.
 
 Users can play with console or using the GUI.
 
